@@ -1,0 +1,15 @@
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\bin\Debug\net6.0\AcmeSchedule.exe
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\bin\Debug\net6.0\AcmeSchedule.deps.json
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\bin\Debug\net6.0\AcmeSchedule.runtimeconfig.json
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\bin\Debug\net6.0\AcmeSchedule.dll
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\bin\Debug\net6.0\AcmeSchedule.pdb
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\AcmeSchedule.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\AcmeSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\AcmeSchedule.AssemblyInfoInputs.cache
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\AcmeSchedule.AssemblyInfo.cs
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\AcmeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\AcmeSchedule.dll
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\refint\AcmeSchedule.dll
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\AcmeSchedule.pdb
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\AcmeSchedule.genruntimeconfig.cache
+C:\Users\Edu\source\repos\AcmeSchedule\AcmeSchedule\obj\Debug\net6.0\ref\AcmeSchedule.dll
